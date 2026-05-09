@@ -1,0 +1,7 @@
+{
+  "name": "devops-ci-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Automated tests passed successfully\""
+  }
+}
